@@ -1,7 +1,9 @@
-This project is made of background images that expand when clicked on. 
+This project is an image carousel that plays automatically. Once it gets to the end, it restarts.
+
+It also has next and prev buttons for User controls too
 
 It uses Flexbox, CSS transitions and JavaScript
 
 This could be converted to be used in (for example) the following ways
 
-- 
+- hero on website
